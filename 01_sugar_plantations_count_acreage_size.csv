@@ -1,0 +1,11 @@
+year,plantation_count,average_acres_per_plantation,estimated_total_acres,estimated_total_method
+1870,20,425,8500,count_times_rounded_average
+1880,63,413,26019,count_times_rounded_average
+1890,73,1192,87016,count_times_rounded_average
+1900,52,2462,128024,count_times_rounded_average
+1910,58,3695,214310,count_times_rounded_average
+1920,52,4548,236496,count_times_rounded_average
+1930,47,5352,251544,count_times_rounded_average
+1940,37,6354,235098,count_times_rounded_average
+1950,28,7871,220388,count_times_rounded_average
+1957,27,8198,221346,count_times_rounded_average
